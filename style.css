@@ -1,0 +1,47 @@
+body {
+    background-color: lime;
+}
+
+#container {
+    background-color: blue;
+    border: 5px solid #white;
+    height: 200px;
+    width: 600px;
+    margin: auto;
+    text-align: center;
+	padding: 50px;
+}
+#main {
+    background-color: lime;
+    border: 0px;
+    height: 300px;
+    width: 800px;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+}
+
+h2 {
+    color: white;
+}
+
+h3 {
+    color: yellow;
+}
+
+p {
+    color: white;
+}
+
+#input {
+    width: 100px;
+    margin: 25px auto;
+}
+
+#btn {
+    margin: 25px auto auto 5px;
+}
